@@ -1,2 +1,1 @@
-# JavaScript
-Exercicios JavaScript
+Repositorio criado para apresentar projetos de estudo em JavaScript
